@@ -1,2 +1,2 @@
-DjangoWebsite
+DjangoWebsite - An Amazing Project
 =============
